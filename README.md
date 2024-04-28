@@ -1,1 +1,1 @@
-Created a simple-CRUD app backend using MongoDB, ExpressJs, NodeJs. The "name, quantity, price" functionalities can be created, updated, read and deleted. Refernce: "https://youtu.be/_7UQPve99r4?si=GiXRi0lvg8rPg4U3".
+Created a simple-CRUD app backend using MongoDB, ExpressJs, NodeJs. The "name, quantity, price" functionalities can be created, updated, read and deleted. Reference: "https://youtu.be/_7UQPve99r4?si=GiXRi0lvg8rPg4U3".
